@@ -1,5 +1,6 @@
 from inventory_report.inventory.product import Product
 
+# referencia para tuplas no assert:
 # https://stackoverflow.com/questions/43119776/can-i-handle-multiple-asserts-within-a-single-python-pytest-method
 
 
